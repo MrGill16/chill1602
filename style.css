@@ -83,6 +83,7 @@ nav ul li a:hover::after{
     height: 300px;
     width: 300px;
     flex-wrap: wrap;
+    border-radius: 50%;
 }
 /*      Social media */
 .social{
